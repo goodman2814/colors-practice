@@ -1,7 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
 
-html, body {
+html,
+body {
   margin: 0px;
 }
 
@@ -34,15 +35,15 @@ header {
 }
 
 #column-1 {
-  background: #d5d5d5;
+  background: #d85605;
 }
 
 #column-2 {
-  background: #d5d5d5;
+  background: #560466;
 }
 
 #column-3 {
-  background: #d5d5d5;
+  background: #1b5e05;
 }
 
 
@@ -60,48 +61,48 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: ;
+    background-color: aqua;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: blueviolet;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: chartreuse;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: darkblue;
   }
 
   footer {
-    background-color: ;
+    background-color: magenta;
   }
-  
+
 }
 
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
   header {
-    background-color: ;
+    background-color: crimson;
   }
 
   #column-1 {
-    background-color: ;
+    background-color: turquoise;
   }
 
   #column-2 {
-    background-color: ;
+    background-color: navy;
   }
 
   #column-3 {
-    background-color: ;
+    background-color: purple;
   }
 
   footer {
-    background-color: ;
+    background-color: salmon;
   }
-   
+
 }
